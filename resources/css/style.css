@@ -1,4 +1,8 @@
 html {
-    font-size: 16px;
-    font-family: Helvetica;
+    font-size: 14px;
+    font-family: "Open Sans";
+}
+.jumbotron {
+    background-image: url(../images/jumbotron-bike.jpg);
+    background-size: cover;
 }
