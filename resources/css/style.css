@@ -46,3 +46,35 @@ html {
     margin-left: 35rem;
     font-weight: bold;
 }
+.btn-primary {
+    background-color: #399bd1;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+}
+.featured h2 {
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-bottom: 1.43rem;
+    color: #399bd1;
+}
+.image-container {
+    overflow: hidden;
+}
+.featured-copy h3 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.featured-copy p {
+    margin-bottom: 1rem;
+    line-height: 1.4rem;
+}
+.featured-copy li {
+    line-height: 1.4rem;
+    color: rgba(0, 0, 0, 0.7);
+}
+.hightlight {
+    color: #399bd1;
+}
+.product-highlight h3 {
+    color: #399bd1;
+}
