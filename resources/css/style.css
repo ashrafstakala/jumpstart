@@ -9,3 +9,11 @@ html {
 .image-container img {
     max-height: 350px;
 }
+.nav li {
+    font-size: 1.1rem;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: inherit;
+  color: #399bd1;
+}
