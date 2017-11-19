@@ -6,7 +6,6 @@ html {
     background-image: url(../images/jumbotron-bike.jpg);
     background-size: cover;
 }
-.navigation {
-    display: flex;
-    align-content: center;
+.image-container img {
+    max-height: 350px;
 }
