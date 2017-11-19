@@ -78,3 +78,21 @@ html {
 .product-highlight h3 {
     color: #399bd1;
 }
+.projects h2 {
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-bottom: 1.43rem;
+    color: #399bd1;
+    margin-top: 1.43rem;
+}
+.projects h3 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    margin-top: 1.43rem;
+}
+.projects p {
+    margin-bottom: 1rem;
+    line-height: 1.4rem;
+}
+
