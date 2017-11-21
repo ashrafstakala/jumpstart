@@ -89,7 +89,7 @@ html {
     margin-bottom: 1rem;
     margin-top: 1.43rem;
 }
-.projects p {
+.project-title p {
     margin-bottom: 1rem;
     line-height: 1.4rem;
 }
@@ -124,4 +124,11 @@ footer {
     position: relative;
     width: 100%;
     text-align: center;
+}
+.projects .image-container {
+    height: 13.5rem;
+}
+.bottom-paragraph p {
+    margin-bottom: 5.85rem;
+    line-height: 1.4rem;
 }
