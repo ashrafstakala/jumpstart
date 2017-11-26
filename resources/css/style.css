@@ -158,4 +158,7 @@ img {
     .jumbotron p {
         margin-top: 1.4rem;
     }
+    .navbar-fixed-top {
+        border: 0px;
+    }
 }
