@@ -55,6 +55,7 @@ html {
     font-size: 1.3rem;
     font-weight: bold;
     margin-bottom: 1rem;
+    margin-top: 1.4rem;
 }
 .featured-copy p {
     margin-bottom: 1rem;
@@ -131,4 +132,23 @@ footer {
 .bottom-paragraph p {
     margin-bottom: 5.85rem;
     line-height: 1.4rem;
+}
+
+img {
+    width: 100%;
+}
+/* Mobile Responsive */
+@media only screen and (max-width: 560px) {
+    .jumbotron h1 {
+        font-size: 5.7rem;
+        font-family: 'Monoton';
+        color: white;
+        text-shadow: -1px -1px 0 #000,
+                     -1px -1px 0 #000,
+                     -1px -1px 0 #000,
+                     -1px -1px 0 #000;
+    }
+    .jumbotron p {
+        margin-top: 1.4rem;
+    }
 }
