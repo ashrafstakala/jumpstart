@@ -138,7 +138,7 @@ img {
     width: 100%;
 }
 /* Mobile Responsive */
-@media only screen and (max-width: 740px) {
+@media only screen and (max-width: 560px) {
     .jumbotron h1 {
         font-size: 5.7rem;
         font-family: 'Monoton';
